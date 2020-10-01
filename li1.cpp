@@ -303,7 +303,7 @@ int main()
 				}
 			}
     }
-    cout<<"if u want to continue....press 1\n otherwise press 0\n";
+    cout<<"press 1 to continue\n otherwise press 0\n";
     cin>>n;
   }
 }
