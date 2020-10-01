@@ -14,7 +14,7 @@ void ins()
 	node *tmp=new node;
 	cout<<"enter  no"<<endl;
   cin>>tmp->no;
-  cout<<"enter name"<<endl;
+  cout<<"ENTER NAME"<<endl;
    scanf(" %[^\t\n]s",tmp->a);
 
   cout<<"enter cgpa"<<endl;
